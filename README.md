@@ -1,4 +1,4 @@
-Current version = 2.7.4.2
+Current version = 2.7.4.3
 ------------------------------------------
 # SimulationObjectSiemensPLC-S7-TiaPortal
 Данный программный продукт предназначен для обучения программированию программируемых логиических контроллеров Siemens S7-300, 400, 1200, 1500 в среде разработки TiaPortal или Simatic Manager.  
