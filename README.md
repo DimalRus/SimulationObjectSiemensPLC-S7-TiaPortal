@@ -6,7 +6,7 @@ Current version = 2.7.4.4
 Он работает с программным симулятором фирмы Siemens S7-PLCSIM v5.4 и выше или S7-PLCSIM v15 и выше.  
 Симулятор объектов считывает управляющие воздействия (выхода) с программного симулятора Siemens (PLCSIM) и формирует для PLCSIM сигналы с датчиков в соответствии с     объектом.
 
-Версия для инсталляции - SimulationObjectSiemensPLC-S7-TiaPortal.exe.
+Версия для инсталляции - InstallSimulationObjectSiemensPLC-S7-TiaPortal.exe.
 
 Файлы в папке ForAutoUpdate предназначены для автоматического обновления с программы
 
